@@ -249,6 +249,7 @@ div.pane-header, div.pane-header a:link, div.pane-header a:visited {
     border-bottom-width: 1px;
     box-shadow: 0 1px 0 #e7f0f8;
     min-height: 800px;
+    box-sizing: border-box;
 }
 
 #side-panel .task a {
